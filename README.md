@@ -10,7 +10,7 @@ Our Robotic Arm will use the following parts:
 Use the pictures from the previous project to make sure you are using correct 10KΩ resistor and photoresistor   
 
 Use the following circuit diagram to construct the circuit. The direction of the photoresistor and the 10KΩ resistor is unimportant.   
-![](Theremin3.png)
+![](High5RobotCircuit.png)
 
 ### Step 2: Test the circuit
 TBD
