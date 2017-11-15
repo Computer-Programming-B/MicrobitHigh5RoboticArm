@@ -1,5 +1,6 @@
 # Build a "High 5" Robotic Arm
-TBD   
+In this project, you will be using a servo to move a robotic arm. A photo resistor will trigger the servo, so that when a shadow of a hand passes over the photo resistor, the arm rotates in a "high 5" position.
+
 ### Step 1: Build the circuit
 Our Robotic Arm will use the following parts:
 - Servo
