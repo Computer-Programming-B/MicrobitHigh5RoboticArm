@@ -3,7 +3,7 @@ In this project, you will be using a servo to move a robotic arm. A photo resis
 
 ### Step 1: Build the circuit
 Our Robotic Arm will use the following parts:
-- Servo
+- Servo with popsicle stick hand
 - 10KΩ resistor
 - Photoresistor
 - Jumper wires   
