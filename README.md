@@ -19,7 +19,7 @@ Just like in the previous project, you can test the photoresitor of your circuit
 To test the servo    
 TBD
 ### Step 3: Build the Robotic Arm
-There may already be a popsicle arm in your kit. If not, you will need to create one.
+There may already be a popsicle arm in your kit. If not, you will need to make one.
 
 TBD
 
