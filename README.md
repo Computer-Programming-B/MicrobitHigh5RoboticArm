@@ -14,10 +14,14 @@ Use the following circuit diagram to construct the circuit. The direction of the
 ![](High5RobotCircuit.png)
 
 ### Step 2: Test the circuit
-Test the photo resistor by putting analog reading 0 in a say block in a forever block, casting a shadow over it and checking the output.
+Just like in the previous project, you can test the photoresitor of your circuit by using your hand to create a shadow over the photoresistor. A shadow should decrease the the value of the Analog0 sensor. You can display the value in a say block or just look at Analog0 in the sensors display.   
 
+To test the servo    
+TBD
 ### Step 3: Build the Robotic Arm
-TBD   
+There may already be a popsicle arm in your kit. If not, you will need to create one.
+
+TBD
 
 ### Step 4: Write the program
 TBD
