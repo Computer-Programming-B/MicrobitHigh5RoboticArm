@@ -14,7 +14,7 @@ Use the following circuit diagram to construct the circuit. The direction of the
 ![](High5RobotCircuit.png)
 
 ### Step 2: Test the circuit
-Just like in the previous project, you can test the photoresitor of your circuit by using your hand to create a shadow over the photoresistor. A shadow should decrease the the value of the Analog0 sensor. You can display the value in a say block or just look at Analog0 in the sensors display.   
+Just like in the previous project, you can test the photoresitor of your circuit by using your hand to create a shadow over the photoresistor. A shadow should decrease the the value of the **Analog0 sensor**. You can display the value in a say block or just look at **Analog0** in the sensors display.   
 
 To test the servo    
 TBD
