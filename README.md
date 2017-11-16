@@ -10,9 +10,9 @@ Our Robotic Arm circuit will use the following parts:
 
 Use the pictures from the previous project to make sure you are using correct 10KΩ resistor and photoresistor   
 
-Use the following circuit diagram to construct the circuit. The direction of the photoresistor and the 10KΩ resistor is unimportant. (Note that in the diagram the servo wires are Yellow, Red & Black, while in the Sparkfun kit the same wires are *White*, Red & Black and in the SunFounder kit the wires are *Orange*, Red & *Brown*)    
+Use the following circuit diagram to construct the circuit. The direction of the photoresistor and the 10KΩ resistor is unimportant.   
 ![](High5RobotCircuit.png)   
-You will need to connect jumper wires to the connecter on the servo.   
+Note that in the above diagram the servo wires are Yellow, Red & Black. In the Sparkfun kit the same wires on the servo are *White*, Red & Black. In the SunFounder kit the corresponding wires are *Orange*, Red & *Brown*. For either kit, you will need to connect jumper wires to the connecter on the servo.   
 ![](ServoConnector.png)   
 ### Step 2: Test the circuit
 Just like in the previous project, you can test the photoresitor of your circuit by using your hand to create a shadow over the photoresistor. A shadow should decrease the the value of the **Analog0 sensor**. You can display the value in a say block or just look at **Analog0** in the sensors display.   
