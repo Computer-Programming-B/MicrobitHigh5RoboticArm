@@ -22,8 +22,8 @@ Attach the robotic arm to the servo by pressing it into place.
 ### Step 3: Test the circuit
 Just like in the previous project, you can test the photoresitor of your circuit by using your hand to create a shadow over the photoresistor. A shadow should decrease the the value of the **Analog0 sensor**. You can display the value in a say block or just look at **Analog0** in the sensors display. 
 
-To test the servo   
-
+To test the servo, drag a **Motor 8 angle** block from the Motion tab to Scripts. Click on the block with different values from 0 to 180 and verify that the arm rotates.    
+![](Hi5-3.png) 
 ### Step 4: Write the program
 TBD
 
