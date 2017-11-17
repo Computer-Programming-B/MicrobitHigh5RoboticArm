@@ -16,9 +16,9 @@ Note that in the above diagram the servo wires are Yellow, Red & Black. In the S
 ![](ServoConnector.png)   
 ### Step 2: Build the Robotic Arm
 There may already be a popsicle stick arm in your kit. If not, you will need to make one. Ask your teacher for a print out of a hand and a glue gun. Cut out the hand and glue to one end of the stick. Glue the servo mount from your kit to the **side** of the popsicle stick at the other end.     
-![](Hi5_1.png)   
+![](Hi5-1.png)   
 Attach the robotic arm to the servo by pressing it into place.   
-![](Hi5_2.png)   
+![](Hi5-2.png)   
 ### Step 3: Test the circuit
 Just like in the previous project, you can test the photoresitor of your circuit by using your hand to create a shadow over the photoresistor. A shadow should decrease the the value of the **Analog0 sensor**. You can display the value in a say block or just look at **Analog0** in the sensors display. 
 
