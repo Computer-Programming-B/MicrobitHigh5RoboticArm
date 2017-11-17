@@ -3,7 +3,8 @@ In this project, you will be using a servo to move a robotic arm. A photoresist
 
 ### Step 1: Build the circuit
 Our Robotic Arm circuit will use the following parts:
-- Servo with popsicle stick hand
+- Servo
+- Popsicle stick with hand cutout and servo mount
 - 10KΩ resistor
 - Photoresistor
 - Jumper wires   
@@ -25,7 +26,12 @@ Just like in the previous project, you can test the photoresitor of your circuit
 To test the servo, drag a **Motor 8 angle** block from the Motion tab to Scripts. Click on the block with different values from 0 to 180 and verify that the arm rotates.    
 ![](Hi5-3.png) 
 ### Step 4: Write the program
-TBD
+One possible solution might use:
+- 1 *forever* loop block from the Control tab
+- 1 *if else* block from the Control tab
+- 1 *value of sensor Analog0* block from the Motion tab
+- 2 *motor 8 angle* blocks from the Motion tab
+- 1 *< (less than)* block from the Operators tab
 
 ### Step 5: Submit your finished program
 Have your teacher or a TA verify that you have a working program. Submit your finished program by uploading the .sb file to Google classroom. You should be able to find it in *My Documents | Scratch Projects*. If you worked with a partner, each partner should submit a copy of the finished program to Google classroom.
