@@ -2,7 +2,7 @@
 In this project, you will be using a servo to move a robotic arm. A photoresistor will trigger the servo, so that when a shadow of a hand passes over the photo resistor, the arm rotates into a "high 5" position.
 
 ### Step 1: Build the circuit
-Our Robotic Arm circuit will use the following parts:
+Our Robotic Arm project will use the following parts:
 - Servo
 - Robotic arm (popsicle stick with hand cutout and servo mount)
 - 10KΩ resistor
