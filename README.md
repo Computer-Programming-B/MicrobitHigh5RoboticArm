@@ -10,7 +10,7 @@ Our Robotic Arm project will use the following parts:
 -   
 
 Use the following circuit diagram to construct connect the servo, micro: bit and alligator cables. 
-![](High5RobotCircuit.png)   
+![](MicrobitServoConnections.png)   
 Note that in the above diagram the servo wires are Yellow, Red & Black. In the Sparkfun kit the same wires on the servo are *White*, Red & Black. In the SunFounder kit the corresponding wires are *Orange*, Red & *Brown*. For either kit, you will need to connect jumper wires to the connecter on the servo.   
 ![](ServoConnector.png)   
 ### Step 2: Build the Robotic Arm
