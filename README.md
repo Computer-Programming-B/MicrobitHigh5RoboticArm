@@ -1,17 +1,15 @@
 # Build a "High 5" Robotic Arm
-In this project, you will be using a servo to move a robotic arm. A photoresistor will trigger the servo, so that when a shadow of a hand passes over the photo resistor, the arm rotates into a "high 5" position.
+In this project, you will be using the micro:bit and a servo to move a robotic arm. The micro:bit light sensor will trigger the servo, so that when a shadow of a hand passes over the LED array, the arm rotates into a "high 5" position.
 
 ### Step 1: Build the circuit
 Our Robotic Arm project will use the following parts:
+- Micro:bit
 - Servo
+- Alligator cables to connect the micro:bit to the servo
 - Robotic arm (popsicle stick with hand cutout and servo mount)
-- 10KΩ resistor
-- Photoresistor
-- Jumper wires   
+-   
 
-Use the pictures from the previous project to make sure you are using correct 10KΩ resistor and photoresistor   
-
-Use the following circuit diagram to construct the circuit. The direction of the photoresistor and the 10KΩ resistor is unimportant.   
+Use the following circuit diagram to construct connect the servo, micro: bit and alligator cables. 
 ![](High5RobotCircuit.png)   
 Note that in the above diagram the servo wires are Yellow, Red & Black. In the Sparkfun kit the same wires on the servo are *White*, Red & Black. In the SunFounder kit the corresponding wires are *Orange*, Red & *Brown*. For either kit, you will need to connect jumper wires to the connecter on the servo.   
 ![](ServoConnector.png)   
