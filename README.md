@@ -3,7 +3,7 @@ In this project, you will be using the micro:bit and a servo to move a robotic 
 
 ### Step 1: Connect the servo to the micro:bit
 Our Robotic Arm project will use the following parts:
-- Micro:bit
+- micro:bit
 - Servo
 - Alligator cables to connect the micro:bit to the servo
 - Robotic arm (popsicle stick with hand cutout and servo mount) 
