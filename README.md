@@ -11,13 +11,7 @@ Our Robotic Arm project will use the following parts:
 Use the following circuit diagram to connect the servo to the micro:bit with the alligator cables.   
 ![](MicrobitServoConnections.png)   
 
-### Step 2: Build the Robotic Arm
-There may already be a popsicle stick arm in your kit. If not, you will need to make one. Ask your teacher for a print out of a hand and a glue gun. Cut out the hand and glue it to one end of the stick. Glue the servo mount from your kit to the **side** of the popsicle stick at the other end.     
-![](Hi5-1.png)   
-Attach the robotic arm to the servo by pressing it into place.   
-![](Hi5-2.png)   
-
-### Step 3: Run this sample program
+### Step 2: Run this sample program
 
 ```python
 from microbit import * 
@@ -46,6 +40,13 @@ while True:
 ```
 You should see the servo spin clockwise for 1 second, stop spinning for 1 second, spin counterclockwise for 1 second, stop spinning for 1 second and then repeat like the video below:   
 ![](ServoTest.gif)   
+
+### Step 3: Build the Robotic Arm and attach it to the servo
+There may already be a popsicle stick arm in your kit. If not, you will need to make one. Ask your teacher for a print out of a hand and a glue gun. Cut out the hand and glue it to one end of the stick. Glue the servo mount from your kit to the **side** of the popsicle stick at the other end.     
+![](Hi5-1.png)   
+Attach the robotic arm to the servo by pressing it into place.   
+![](Hi5-2.png)   
+
 ### Step 4: Write the program
 TBD
 
