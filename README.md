@@ -31,8 +31,8 @@ while True:
 	pin0.write_analog(75) #stop turning
 	display.show(stop)
 	sleep(1000)
-	pin0.write_analog(100)
-	display.show(left) #turn counterclockwise
+	pin0.write_analog(100) #turn counterclockwise
+	display.show(left) 
  	sleep(1000)
  	pin0.write_analog(75) #stop turning
 	display.show(stop)
