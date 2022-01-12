@@ -8,7 +8,7 @@ Our Robotic Arm project will use the following parts:
 - Alligator cables to connect the micro:bit to the servo
 - Robotic arm (popsicle stick with hand cutout and servo mount) 
 
-Use the following circuit diagram to connect the servo to the micro:bit with the alligator cables. 
+Use the following circuit diagram to connect the servo to the micro:bit with the alligator cables.   
 ![](MicrobitServoConnections.png)   
 
 ### Step 2: Build the Robotic Arm
