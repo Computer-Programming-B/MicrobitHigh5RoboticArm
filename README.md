@@ -18,7 +18,7 @@ Attach the robotic arm to the servo by pressing it into place.
 ![](Hi5-2.png)   
 
 ### Step 3: Run this sample program
-You should see the servo spin clockwise for 1 second, stop spinning for 1 second, spin counterclockwise for 1 second, stop spinning for 1 second and then repeat.
+
 ```python
 from microbit import * 
 # Servo control: 
@@ -44,7 +44,8 @@ while True:
 	display.show(stop)
 	sleep(1000)
 ```
-
+You should see the servo spin clockwise for 1 second, stop spinning for 1 second, spin counterclockwise for 1 second, stop spinning for 1 second and then repeat like the video below:   
+![](ServoTest.gif)   
 ### Step 4: Write the program
 TBD
 
