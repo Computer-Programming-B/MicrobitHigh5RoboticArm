@@ -1,5 +1,5 @@
 # Build a "High 5" Robotic Arm
-In this project, you will be using the micro:bit and a servo to move a robotic arm. The micro:bit light sensor will trigger the servo, so that when a shadow of a hand passes over the LED array, the arm rotates into a "high 5" position.
+In this project, you will be using the micro:bit and a type of motor called a *servo* to move a robotic arm. The micro:bit light sensor will trigger the servo, so that when a shadow of a hand passes over the LED array, the arm rotates into a "high 5" position.
 
 ### Step 1: Connect the servo to the micro:bit
 Our Robotic Arm project will use the following parts:
