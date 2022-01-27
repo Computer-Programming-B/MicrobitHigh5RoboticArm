@@ -18,6 +18,9 @@ from microbit import *
 # Servo control: 
 # 50 = ~1 millisecond pulse all right 
 # 75 = ~1.5 millisecond pulse center 
+left = Image("00900:09300:99999:09300:00900")
+right = Image("00900:00390:99999:00390:00900")
+stop = Image("00900:09390:93039:09390:00900")
 pin0.set_analog_period(20)
 
 while True: 
