@@ -55,5 +55,5 @@ Attach the robotic arm to the servo by pressing it into place.
 ### Step 5: Submit your finished program
 Submit your Python code and an animated gif of your program running
 
-###Samples of Student Work
+### Samples of Student Work
 *none yet!*
