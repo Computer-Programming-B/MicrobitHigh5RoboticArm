@@ -18,10 +18,6 @@ from microbit import *
 # Servo control: 
 # 50 = ~1 millisecond pulse all right 
 # 75 = ~1.5 millisecond pulse center 
-# 100 = ~2.0 millisecond pulse all left 
-left = Image("00900:09300:99999:09300:00900")
-right = Image("00900:00390:99999:00390:00900")
-stop = Image("00900:09390:93039:09390:00900")
 pin0.set_analog_period(20)
 
 while True: 
@@ -30,15 +26,15 @@ while True:
 	sleep(1000)
 	pin0.write_analog(75) #stop turning
 	display.show(stop)
-	sleep(1000)
+	sleep(2000)
 	pin0.write_analog(100) #turn counterclockwise
 	display.show(left) 
  	sleep(1000)
  	pin0.write_analog(75) #stop turning
 	display.show(stop)
-	sleep(1000)
+	sleep(2000)
 ```
-You should see the servo spin clockwise for 1 second, stop spinning for 1 second, spin counterclockwise for 1 second, stop spinning for 1 second and then repeat like the video below:   
+You should see the servo spin clockwise for 1 second, stop spinning for 2 seconds, spin counterclockwise for 1 second, stop spinning for 2 seconds and then repeat like the video below:   
 ![](ServoTest3.gif)   
 
 ### Step 3: Build the Robotic Arm and attach it to the servo
