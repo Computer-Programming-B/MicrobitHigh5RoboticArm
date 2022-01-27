@@ -48,7 +48,8 @@ Attach the robotic arm to the servo by pressing it into place.
 ![](Hi5-2.png)   
 
 ### Step 4: Write the program
-TBD
+*  Modify the sample program so that the arm moves 90 degrees in each direction. You can change the amount of movement by adjusting the `sleep` time.
+*  Add an `if` statement so that the arm only moves if the amount of light reaching the light sensor is below a certain level
 
 ### Step 5: Submit your finished program
 Submit your Python code and an animated gif of your program running
