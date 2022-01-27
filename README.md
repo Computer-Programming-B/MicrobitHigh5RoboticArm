@@ -29,15 +29,15 @@ while True:
 	sleep(1000)
 	pin0.write_analog(75) #stop turning
 	display.show(stop)
-	sleep(2000)
+	sleep(1000)
 	pin0.write_analog(100) #turn counterclockwise
 	display.show(left) 
  	sleep(1000)
  	pin0.write_analog(75) #stop turning
 	display.show(stop)
-	sleep(2000)
+	sleep(1000)
 ```
-You should see the servo spin clockwise for 1 second, stop spinning for 2 seconds, spin counterclockwise for 1 second, stop spinning for 2 seconds and then repeat like the video below:   
+You should see the servo spin clockwise for 1 second, stop spinning for 1 second, spin counterclockwise for 1 second, stop spinning for 1 second and then repeat like the video below:   
 ![](ServoTest3.gif)   
 
 ### Step 3: Build the Robotic Arm and attach it to the servo
