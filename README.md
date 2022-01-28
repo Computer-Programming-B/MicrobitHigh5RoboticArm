@@ -56,4 +56,4 @@ Attach the robotic arm to the servo by pressing it into place.
 Submit your Python code and an animated gif of your program running
 
 ### Samples of Student Work
-*none yet!*
+[Peter](PeterHi5.gif)   
