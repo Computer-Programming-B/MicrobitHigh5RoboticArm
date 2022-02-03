@@ -58,3 +58,8 @@ Submit your Python code and an animated gif of your program running
 ### Samples of Student Work
 [Peter](PeterHi5.gif)   
 [Winson](WinsonArm.gif)   
+[Allison](AllisonArm.png)   
+[Breanna](BreannaArm.gif)   
+[Evangeline](EvangelineArm.png)   
+[Renzl](RenzlArm.gif)   
+[Yangyang](YangyangArm.png)   
