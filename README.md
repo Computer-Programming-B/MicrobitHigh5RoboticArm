@@ -57,3 +57,4 @@ Submit your Python code and an animated gif of your program running
 
 ### Samples of Student Work
 [Peter](PeterHi5.gif)   
+[Winson](WinsonArm.gif)   
