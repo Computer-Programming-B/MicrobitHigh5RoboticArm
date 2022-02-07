@@ -64,4 +64,4 @@ Submit your Python code and an animated gif of your program running
 [Evangeline](EvangelineArm.png)   
 [Renzl](RenzlArm.gif)   
 [Yangyang](YangyangArm.png)   
-[John](RenzlPot.gif)   
+[John](JohnArm.gif)   
